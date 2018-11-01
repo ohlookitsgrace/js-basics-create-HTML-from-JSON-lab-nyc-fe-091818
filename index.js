@@ -49,6 +49,7 @@ function fillInMovieData() {
   }
   
   for (let review of currentMovie.reviews) {
+    const li  = document.createElement('li')
     
   }
 }
