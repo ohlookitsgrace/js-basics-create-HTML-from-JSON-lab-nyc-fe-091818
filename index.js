@@ -47,4 +47,8 @@ function fillInMovieData() {
     const div = document.querySelector('#cast')
     div.appendChild(li)
   }
+  
+  for (let review of currentMovie.reviews) {
+    
+  }
 }
