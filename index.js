@@ -8,7 +8,6 @@ document.addEventListener("DOMContentLoaded", (e) => {
   terminatorButton.addEventListener('click', fillInMovieData)
   
 });
-
 function fillInMovieData() {
   const currentMovie = movies['Titanic']
   
